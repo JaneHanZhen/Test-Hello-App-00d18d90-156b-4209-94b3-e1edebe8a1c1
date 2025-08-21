@@ -57,7 +57,7 @@ export default function HomeScreen() {
           ) : (
             <View style={styles.greetingContainer}>
               <Text style={styles.greeting}>
-                Hello {name}, how are you today?
+                Hello {name}, this is Appifex, nice to meet you!
               </Text>
               <TouchableOpacity 
                 style={[styles.button, styles.resetButton]} 
